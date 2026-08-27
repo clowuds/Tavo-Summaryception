@@ -1,6 +1,4 @@
-![](Screenshot-01.jpg)
-![](Screenshot-02.jpg)
-![](Screenshot-03.jpg)
+![](Screenshot-01.jpg)![](Screenshot-02.jpg)![](Screenshot-03.jpg)
 
 Fork made for Tavo.
 - Better, mobile focused UI
