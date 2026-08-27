@@ -13,6 +13,7 @@ Fork made for Tavo.
 ---
 
 __**SETTINGS:**__ Explanation and recommended values
+
 **Enable: `ON`**
 > Enable auto Summary
 
