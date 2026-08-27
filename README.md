@@ -6,5 +6,6 @@ Fork made for Tavo.
 - Adds **Snippet Pin**
 - Adds **Snippets kept after promotion**
 - Adds **Per chat settings**
+- Adds **Multilingual support** (UI and Output)
 - Uses ID for promotion/summary
 - Overall prompt improvements
