@@ -13,8 +13,8 @@ Fork made for Tavo.
 ---
 
 __**SETTINGS:**__ Explanation and recommended values
->>> **Enable: `ON`**
-- Enable auto Summary
+> **Enable: `ON`**
+> - Enable auto Summary
 **Enable Jailbreak: `ON - Light`**
 **Trigger Memories: `ON`**
 **Long-Term Memory: `OFF`**
