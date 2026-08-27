@@ -15,6 +15,7 @@ Fork made for Tavo.
 __**SETTINGS:**__ Explanation and recommended values
 **Enable: `ON`**
 - Enable auto Summary
+
 **Enable Jailbreak: `ON - Light`**
 **Trigger Memories: `ON`**
 **Long-Term Memory: `OFF`**
@@ -25,22 +26,31 @@ __**SETTINGS:**__ Explanation and recommended values
 
 **Verbatim turns: `02 to 06`**
 - The **vt** last Assistant and User messages won't be hidden (total ≈ vt×2)
+  
 **Recall turns: `02 to 06`**
 - turns scaned to matchmaking tags
+  
 **Max recalled snippets: `02 to 05`**
 - snippets that will be re-injected, uses a pontuation system (more tags match = higher pontuation)
+  
 **Turns per batch: `01 to 05`**
 - **tb** messages will be summarized per snippet (total = tb×2): smaller number = more detailed
+  
 **Snippets per layer: `20 to 30`**
 - **sl** snippets per leyer
+  
 **Snippets per promotion: `02 to 06`**
 - **sl** number turns **sp** number when layers gets filled
+  
 **Snippets kept after promotion: `02 to 06`**
 - Newest **Snippets** left behind in the previous **Layer**
+  
 **Max layers: `5 to 10`**
 - **ml** maximum layers (about ml×sl snippets)
+  
 **Auto Repair interval: `3 to 5`**
 - Snippet count before Auto Repair runs.
+  
 **Prompt Style: `Any`**
 
 ---
