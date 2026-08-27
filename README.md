@@ -9,3 +9,4 @@ Fork made for Tavo.
 - Adds **Multilingual support** (UI and Output)
 - Uses ID for promotion/summary
 - Overall prompt improvements
+---
