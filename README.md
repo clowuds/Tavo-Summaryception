@@ -1,5 +1,3 @@
-![](Screenshot-01.jpg)![](Screenshot-02.jpg)![](Screenshot-03.jpg)
-
 Fork made for Tavo.
 - Better, mobile focused UI
 - Improved **Repair** functionality
@@ -82,5 +80,5 @@ __**DO NOT:**__
 > Use **Lorebook**, **Preset entry** and **Long-term Memory: ON** at the same time!
 > This will cause DUPLICATE INFORMATION. 
 > Choose ONE.
-
 ---
+![](Screenshot-01.jpg)![](Screenshot-02.jpg)![](Screenshot-03.jpg)
