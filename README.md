@@ -46,18 +46,18 @@ __**SETTINGS:**__ Explanation and recommended values
 ---
 __**IMPORTANT,** *if using **Long-Term Memory ON:***__
 > Deactivate auto Long-Term Memory updates
-> **```
+> ```
 > More > Long-term memory > Auto summarize > set to 0
-> ```**
+> ```
 
 __**IMPORTANT,** *if using **Long-Term Memory OFF:***__
 > Create a **Preset Entry** on your choosen Preset following these instructions: 
-> **```
+> ```
 > Role: System
 > Injection position: In-chat
 > Injection depth: 1
 > Content: important_story-events = {{getvar::sc_summary.assembled}}
-> ```**
+> ```
 > OR use the provided Lorebook **[SC - Summaryception.json](https://discord.com/channels/1356606095207960616/1526103139575402516/1540150387645091931)**
 
 __**DO NOT:**__
