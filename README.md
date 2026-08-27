@@ -17,11 +17,17 @@ __**SETTINGS:**__ Explanation and recommended values
 > Enable auto Summary
 
 **Enable Jailbreak: `ON - Light`**
+
 **Trigger Memories: `ON`**
+
 **Long-Term Memory: `OFF`**
+
 **Pause summaryzation: `OFF`**
+
 **Don't hide summarized messages: `OFF`**
+
 **Don't summarize Verbatim Turns: `ON`**
+
 **Auto Repair: `ON/OFF`**
 
 **Verbatim turns: `02 to 06`**
