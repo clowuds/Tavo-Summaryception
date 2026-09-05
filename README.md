@@ -1,6 +1,7 @@
 Fork made for Tavo.
 - Better, mobile focused UI
 - Improved **Repair** functionality
+- Adds **Auto Repair**
 - Adds **Retrigged Memories**
 - Adds **Snippet Creation**
 - Adds **Snippet Pin**
